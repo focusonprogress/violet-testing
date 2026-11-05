@@ -1,0 +1,13 @@
+{
+  "name": "violet-testing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testes manuais da Violet Utilities direto na Roblox, sem mexer no site.",
+  "scripts": {
+    "criar-gamepass": "node criar-gamepass.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
